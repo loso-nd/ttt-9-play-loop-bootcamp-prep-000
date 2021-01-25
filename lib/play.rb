@@ -39,4 +39,5 @@ end
 def play(board)
   3.times do
     turn(board)
+  end
 end
